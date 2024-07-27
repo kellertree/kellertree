@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on my portfollio website.
 - 🌱 I’m currently learning GitHub collaboration.
 - 👯 I’m looking to collaborate on data analysis projects, and programming projects (python, html, css)
-- 🤔 I’m looking for help with finding employment as a data analyst or software developer.
+- 🤔 I’m looking for help with finding employment as a data analyst or software developer/engineer.
 - 💬 Ask me about anything!
 - 📫 How to reach me: katree@madisoncollege.edu 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am obsessed with data and software. Everything is data!
+- ⚡ Fun fact: I am obsessed with data and software. And don't forget; everything is data!
 
 <!--
 **kellertree/kellertree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
