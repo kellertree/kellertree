@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GitHub collaboration.
 - 👯 I’m looking to collaborate on data analysis projects, and programming projects (python, html, css)
 - 🤔 I’m looking for help with finding employment as a data analyst or software developer.
-- 💬 Ask me about Anything!
+- 💬 Ask me about anything!
 - 📫 How to reach me: katree@madisoncollege.edu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am obsessed with data and software. Everything is data!
