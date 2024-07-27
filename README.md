@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfollio website.
 - 🌱 I’m currently learning GitHub collaboration.
-- 👯 I’m looking to collaborate on data analysis projects, and programming projects (python, html, css)
+- 👯 I’m looking to collaborate on data analysis projects, and programming projects (python, html, css, SQL)
 - 🤔 I’m looking for help with finding employment as a data analyst or software developer/engineer.
 - 💬 Ask me about anything!
 - 📫 How to reach me: katree@madisoncollege.edu 
