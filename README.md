@@ -7,8 +7,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: katree@madisoncollege.edu 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am obsessed with data and software. And don't forget; everything is data!
-
+- ⚡ Fun fact: I am obsessed with data and software.
 <!--
 **kellertree/kellertree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
