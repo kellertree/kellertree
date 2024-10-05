@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my portfollio website and running data analytics projects using awesome-public-datasets.
-- 🌱 I’m currently learning GitHub collaboration.
-- 👯 I’m looking to collaborate on data analysis projects, and programming projects (python, html, css, sql)
+- 🌱 I’m currently learning rust programming.
 - 🤔 I’m looking for help with finding employment as a data analyst or software developer/engineer.
 - 💬 Ask me about anything!
 - 📫 How to reach me: katree@madisoncollege.edu 
