@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfollio website and running data analytics projects using awesome-public-datasets.
 - 🌱 I’m currently learning rust programming.
 - 🤔 I’m looking for employment opportunies in tech. Presently I am a excellent fit for entry-level opportunities in Data Analytics, Data Science, Software Development/Engineering, IT and related fields.
-- 👯 It really comes down to this: I am looking to join a company full-time that will nurture my talents and by doing so benefit from my further development. There is no better learning then on-the-job experience, encountering real-world scenarios and growing from them.
+- 👯 In essence, I am seeking a full-time position with a company that will nurture my talents and, in turn, benefit from my continued growth. I believe that the best way to learn is through real-world experience and hands-on challenges
 - 📫 How to reach me: katree@madisoncollege.edu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
