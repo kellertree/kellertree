@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/kellertree?tab=followers">
+    <img src="https://img.shields.io/github/followers/kellertree?label=Follow&style=social" alt="Follow">
+  </a>
+  <a href="https://github.com/sponsors/kellertree">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=flat&logo=github-sponsors" alt="Sponsor">
+  </a>
+</p>
