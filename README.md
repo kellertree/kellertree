@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my portfollio website and running data analytics projects using awesome-public-datasets.
+- 🔭 I’m currently working on building a data processing and visualization application from front to back. 
 - 🌱 I’m currently learning rust programming.
 - 🤔 I’m looking for work opportunities in tech. Presently I am an excellent fit for entry-level opportunities in Data Analytics, Data Science, Software Development/Engineering, IT and related fields.
 - 👯 In essence, I am seeking a full-time position with a company that will nurture my talents and, in turn, benefit from my continued growth. I believe that the best way to learn is through real-world experience and hands-on challenges.
