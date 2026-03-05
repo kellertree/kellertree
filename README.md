@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Curious problem solver who is most content when working on software engineering tasks.
+Curious problem solver who is most content when working on analytical tasks.
 <!--
 **kellertree/kellertree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
